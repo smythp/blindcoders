@@ -1,5 +1,5 @@
-baseURL = ""
-relativeURLs = "True"
+baseURL = "https://smythp.github.io/blindcoders"
+
 languageCode = 'en-us'
 title = 'Blind Coders'
 
